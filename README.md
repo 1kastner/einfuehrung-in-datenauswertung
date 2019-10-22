@@ -21,8 +21,7 @@ ein sehr empfehlenswertes Buch.
 ## Jupyter Notebooks ausführen
 
 Man kann sich die Jupyter Notebooks auf verschiedenen Wegen anschauen:
-- Über den Button 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fcollaborating.tuhh.de%2Fcmk3624%2Feinfuehrung-in-datenauswertung.git/master)
+- Über diesen [Link](https://mybinder.org/v2/git/https%3A%2F%2Fcollaborating.tuhh.de%2Fcmk3624%2Feinfuehrung-in-datenauswertung.git/master)
 wird die aktuelle Version der Jupyter Notebooks auf einer anderen Seite namens mybinder geladen.
 Hier kann man online mit den Jupyter Notebooks arbeiten.
 - Man kann sich die aktuelle Version als 

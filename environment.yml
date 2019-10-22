@@ -10,6 +10,7 @@ dependencies:
   - scikit-learn
   - scipy
   - rise
+  - pip
   - pip:
     - folium
     - geopy

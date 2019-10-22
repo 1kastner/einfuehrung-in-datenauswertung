@@ -27,10 +27,10 @@ Man kann sich die Jupyter Notebooks auf verschiedenen Wegen anschauen:
 Die Dienste laden die Jupyter Notebooks nur temporär, sie werden nach einer Weile wieder gelöscht.
 
 - Über mybinder wird die aktuelle Version der Jupyter Notebooks im Internet geladen.
-mybinder installiert bereits alle Bibliotheken automatisch.<br>
+mybinder installiert bereits alle Bibliotheken automatisch.
 [mybinder starten](https://mybinder.org/v2/git/https%3A%2F%2Fcollaborating.tuhh.de%2Fcmk3624%2Feinfuehrung-in-datenauswertung.git/master)
 - An der TUHH gibt es einen JupyterHub, der innerhalb des TUHH-Netz erreichbar ist.
-Bei der Einrichtung hilft die Workshop-Leitung.<br>
+Bei der Einrichtung hilft die Workshop-Leitung.
 [TUHH-JupyterHub öffnen](https://jhub-exam.rz.tuhh.de/)
 
 #### Lokal

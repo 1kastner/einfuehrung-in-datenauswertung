@@ -30,6 +30,12 @@ herunterladen, dieses entpacken und hat dann die aktuelle Version.
 So kann man lokal mit den Jupyter Notebooks arbeiten.
 - Mit [git](https://git-scm.com/) kann man das Repository clonen, die URL lautet hierfür `https://collaborating.tuhh.de/cmk3624/einfuehrung-in-datenauswertung.git`
 
+mybinder installiert bereits alle Bibliotheken automatisch.
+Um alle benötigten Bibliotheken lokal zu installieren, kann man die `environment.yml`-Datei von conda einlesen lassen.
+Dieser Schritt wird 
+[hier](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
+erklärt.
+Danach sollten alle Jupyter Notebooks ausführbar sein - nur für das Einlesen der Daten sind mitunter noch Schritte notwendig.
 
 ## Lizenzrechtliches
 

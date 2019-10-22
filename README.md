@@ -18,6 +18,20 @@ Für den Einstieg ins Maschinelle Lernen ist
 ["Praxiseinstieg Machine Learning mit Scikit-Learn und TensorFlow : Konzepte, Tools und Techniken für intelligente Systeme" von Géron Aurelien](https://katalog.tub.tuhh.de/Record/898831717)
 ein sehr empfehlenswertes Buch.
 
+## Jupyter Notebooks ausführen
+
+Man kann sich die Jupyter Notebooks auf verschiedenen Wegen anschauen:
+- Über den Button 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fcollaborating.tuhh.de%2Fcmk3624%2Feinfuehrung-in-datenauswertung.git/master)
+wird die aktuelle Version der Jupyter Notebooks auf einer anderen Seite namens mybinder geladen.
+Hier kann man online mit den Jupyter Notebooks arbeiten.
+- Man kann sich die aktuelle Version als 
+[ZIP-Archiv](https://collaborating.tuhh.de/cmk3624/einfuehrung-in-datenauswertung/-/archive/master/einfuehrung-in-datenauswertung-master.zip)
+herunterladen, dieses entpacken und hat dann die aktuelle Version.
+So kann man lokal mit den Jupyter Notebooks arbeiten.
+- Mit [git](https://git-scm.com/) kann man das Repository clonen, die URL lautet hierfür `https://collaborating.tuhh.de/cmk3624/einfuehrung-in-datenauswertung.git`
+
+
 ## Lizenzrechtliches
 
 Dieses Repository unterliegt zwei Lizenzen, zum einen der MIT-Lizenz (siehe [LICENSE](./LICENSE)) und zum anderen der Creative Commons Lizenz (siehe die jeweiligen Jupyter Notebooks).

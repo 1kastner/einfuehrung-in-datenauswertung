@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - python=3.7
+  - requests
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - pip:
+    - folium
+    - geopy
+    - sodapy

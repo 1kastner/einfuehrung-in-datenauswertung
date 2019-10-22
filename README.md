@@ -21,21 +21,36 @@ ein sehr empfehlenswertes Buch.
 ## Jupyter Notebooks ausführen
 
 Man kann sich die Jupyter Notebooks auf verschiedenen Wegen anschauen:
-- Über diesen [Link](https://mybinder.org/v2/git/https%3A%2F%2Fcollaborating.tuhh.de%2Fcmk3624%2Feinfuehrung-in-datenauswertung.git/master)
-wird die aktuelle Version der Jupyter Notebooks auf einer anderen Seite namens mybinder geladen.
-Hier kann man online mit den Jupyter Notebooks arbeiten.
+
+#### Online 
+
+Die Dienste laden die Jupyter Notebooks nur temporär, sie werden nach einer Weile wieder gelöscht.
+
+- Über mybinder wird die aktuelle Version der Jupyter Notebooks im Internet geladen.
+mybinder installiert bereits alle Bibliotheken automatisch.<br>
+[mybinder starten](https://mybinder.org/v2/git/https%3A%2F%2Fcollaborating.tuhh.de%2Fcmk3624%2Feinfuehrung-in-datenauswertung.git/master)
+- An der TUHH gibt es einen JupyterHub, der innerhalb des TUHH-Netz erreichbar ist.
+Bei der Einrichtung hilft die Workshop-Leitung.<br>
+[TUHH-JupyterHub öffnen](https://jhub-exam.rz.tuhh.de/)
+
+#### Lokal
+
+Die Dateien liegen auf dem eigenen Rechner, alle Änderungen werden auf der Festplatte (Heimlaufwerk) gespeichert.
+
 - Man kann sich die aktuelle Version als 
 [ZIP-Archiv](https://collaborating.tuhh.de/cmk3624/einfuehrung-in-datenauswertung/-/archive/master/einfuehrung-in-datenauswertung-master.zip)
-herunterladen, dieses entpacken und hat dann die aktuelle Version.
-So kann man lokal mit den Jupyter Notebooks arbeiten.
-- Mit [git](https://git-scm.com/) kann man das Repository clonen, die URL lautet hierfür `https://collaborating.tuhh.de/cmk3624/einfuehrung-in-datenauswertung.git`
+herunterladen und dieses entpacken.
 
-mybinder installiert bereits alle Bibliotheken automatisch.
-Um alle benötigten Bibliotheken lokal zu installieren, kann man die [environment.yml](./environment.yml)-Datei von conda einlesen lassen.
+- Mit [git](https://git-scm.com/) kann man das Repository clonen, die URL lautet hierfür `https://collaborating.tuhh.de/cmk3624/einfuehrung-in-datenauswertung.git`
+Somit kann man sich später leicht Updates herunterladen oder Änderungen vorschlagen.
+
+Um die Jupyter Notebooks lokal auszuführen, wird [Anaconda](https://www.anaconda.com/distribution/) empfohlen.
+Um alle benötigten Bibliotheken lokal zu installieren, kann man die [environment.yml](./environment.yml)-Datei verwenden.
 Dieser Schritt wird 
 [hier](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 erklärt.
-Danach sollten alle Jupyter Notebooks ausführbar sein - nur für das Einlesen der Daten sind mitunter noch Schritte notwendig.
+Danach sollten alle Jupyter Notebooks ausführbar sein.
+Für das Laden der Verkehrsdaten und der Straßenschilder muss der Download von externen Webseiten gesondert angestoßen werden.
 
 ## Lizenzrechtliches
 

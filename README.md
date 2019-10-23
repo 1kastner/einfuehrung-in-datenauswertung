@@ -24,18 +24,14 @@ Man kann sich die Jupyter Notebooks auf verschiedenen Wegen anschauen:
 
 #### Online 
 
-Die Dienste laden die Jupyter Notebooks nur temporär, sie werden nach einer Weile wieder gelöscht.
-
-- Über mybinder wird die aktuelle Version der Jupyter Notebooks im Internet geladen.
+Über mybinder wird die aktuelle Version der Jupyter Notebooks im Internet geladen.
+Der Dienst lädt die Jupyter Notebooks nur temporär, sie werden nach einer Weile wieder gelöscht.
 mybinder installiert bereits alle Bibliotheken automatisch.
-[mybinder starten](https://mybinder.org/v2/git/https%3A%2F%2Fcollaborating.tuhh.de%2Fcmk3624%2Feinfuehrung-in-datenauswertung.git/master)
-- An der TUHH gibt es einen JupyterHub, der innerhalb des TUHH-Netz erreichbar ist.
-Bei der Einrichtung hilft die Workshop-Leitung.
-[TUHH-JupyterHub öffnen](https://jhub-exam.rz.tuhh.de/)
+[Starte mybinder.](https://mybinder.org/v2/git/https%3A%2F%2Fcollaborating.tuhh.de%2Fcmk3624%2Feinfuehrung-in-datenauswertung.git/master)
 
 #### Lokal
 
-Die Dateien liegen auf dem eigenen Rechner, alle Änderungen werden auf der Festplatte (Heimlaufwerk) gespeichert.
+Die Dateien liegen auf dem eigenen Rechner, alle Änderungen werden auf der Festplatte (standardmäßig Heimlaufwerk) gespeichert.
 
 - Man kann sich die aktuelle Version als 
 [ZIP-Archiv](https://collaborating.tuhh.de/cmk3624/einfuehrung-in-datenauswertung/-/archive/master/einfuehrung-in-datenauswertung-master.zip)

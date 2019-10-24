@@ -2,11 +2,11 @@
 
 ## Übersicht über Jupyter Notebooks
 
-1. [01 Boston Wohnungsgrundstueck-Preise.ipynb](./01 Boston Wohnungsgrundstueck-Preise.ipynb)
-1. [02 Verkehrsfluss.ipynb](./02 Verkehrsfluss.ipynb)
-1. [03 Repraesentation von Farbbildern.ipynb](./03 Repraesentation von Farbbildern.ipynb)
-1. [04 Erkennung von Ziffern.ipynb](./04 Erkennung von Ziffern.ipynb)
-1. [05 Klassifiziere Verkehrsschilder.ipynb](./05 Klassifiziere Verkehrsschilder.ipynb)
+1. [01 Boston Wohnungsgrundstueck-Preise.ipynb](01%20Boston%20Wohnungsgrundstueck-Preise.ipynb)
+1. [02 Verkehrsfluss.ipynb](./02%20Verkehrsfluss.ipynb)
+1. [03 Repraesentation von Farbbildern.ipynb](./03%20Repraesentation%20von%20Farbbildern.ipynb)
+1. [04 Erkennung von Ziffern.ipynb](./04%20Erkennung%20von%20Ziffern.ipynb)
+1. [05 Klassifiziere Verkehrsschilder.ipynb](./05%20Klassifiziere%20Verkehrsschilder.ipynb)
 
 ## Konzept des Repositories
 

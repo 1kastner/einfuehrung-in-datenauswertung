@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/216908574.svg)](https://zenodo.org/badge/latestdoi/216908574)
+
 # Einführung in Datenauswertung mit Jupyter Notebooks
 
 ## Übersicht über Jupyter Notebooks

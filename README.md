@@ -2,6 +2,8 @@
 
 # Einführung in Datenauswertung mit Jupyter Notebooks
 
+Dieser Workshop hat während der Open Access Week 2019 stattgefunden.
+
 ## Übersicht über Jupyter Notebooks
 
 1. [01 Boston Wohnungsgrundstueck-Preise.ipynb](01%20Boston%20Wohnungsgrundstueck-Preise.ipynb)
